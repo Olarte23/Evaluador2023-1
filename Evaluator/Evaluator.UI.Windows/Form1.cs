@@ -82,7 +82,7 @@ namespace Evaluator.UI.Windows
                 CDut++;
 
             }
-            else { ErrorP.SetError(btnDot, "No more commas allowed"); }
+            else { ErrorP.SetError(btnDot, "No more points are allowed in this number."); }
 
 
         }
